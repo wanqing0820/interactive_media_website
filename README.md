@@ -6,7 +6,7 @@
 - Allows users to add/ delete tags attached to the images, upload images which
   are stored in a SQL database, delete images by the image ID, search/ filter the
   images by tags
-- On the backend side, user input is filtered, sanitized, and processed to be
+- On the backend side, user input (in text and image) is filtered, sanitized, and processed to be
   stored according to the database schema designed
 
 > How to run locally?
