@@ -9,6 +9,6 @@
 - On the backend side, user input (in text and image) is filtered, sanitized, and processed to be
   stored according to the database schema designed
 
-> How to run locally?
+> How to run it locally?
 
 - Using visual studio code, serve the project on localhost:3000 with PHP server extension
